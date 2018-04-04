@@ -19,7 +19,6 @@ class App extends Component {
    this.setState({ count: this.state.count + 1 })
   }
   render(){
-    console.log(this.state)
     return(
       <div style={styles}>
         <CounterContext.Provider value={this.state.count}>

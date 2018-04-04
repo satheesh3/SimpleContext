@@ -1,2 +1,0 @@
-# SimpleContext
-Created with CodeSandbox
